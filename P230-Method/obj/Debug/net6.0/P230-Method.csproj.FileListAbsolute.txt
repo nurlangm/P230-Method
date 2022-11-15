@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\P230\P230-Method\P230-Method\obj\Debug\net6.0\P230-Method.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\P230\P230-Method\P230-Method\obj\Debug\net6.0\P230-Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\P230\P230-Method\P230-Method\obj\Debug\net6.0\P230-Method.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\P230\P230-Method\P230-Method\obj\Debug\net6.0\P230-Method.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\P230\P230-Method\P230-Method\obj\Debug\net6.0\P230-Method.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\P230\P230-Method\P230-Method\bin\Debug\net6.0\P230-Method.exe
+C:\Users\ASUS\Desktop\P230\P230-Method\P230-Method\bin\Debug\net6.0\P230-Method.deps.json
+C:\Users\ASUS\Desktop\P230\P230-Method\P230-Method\bin\Debug\net6.0\P230-Method.runtimeconfig.json
+C:\Users\ASUS\Desktop\P230\P230-Method\P230-Method\bin\Debug\net6.0\P230-Method.dll
+C:\Users\ASUS\Desktop\P230\P230-Method\P230-Method\bin\Debug\net6.0\P230-Method.pdb
+C:\Users\ASUS\Desktop\P230\P230-Method\P230-Method\obj\Debug\net6.0\P230-Method.dll
+C:\Users\ASUS\Desktop\P230\P230-Method\P230-Method\obj\Debug\net6.0\refint\P230-Method.dll
+C:\Users\ASUS\Desktop\P230\P230-Method\P230-Method\obj\Debug\net6.0\P230-Method.pdb
+C:\Users\ASUS\Desktop\P230\P230-Method\P230-Method\obj\Debug\net6.0\P230-Method.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\P230\P230-Method\P230-Method\obj\Debug\net6.0\ref\P230-Method.dll
